@@ -1,0 +1,7 @@
+Flask==3.0.0
+gunicorn==21.2.0
+requests
+pandas
+numpy
+yfinance
+Pillow
